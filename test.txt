@@ -1,1 +1,2 @@
-testtests
+mztest.lcshl.com
+api.lcshl.com
